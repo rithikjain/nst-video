@@ -33,7 +33,7 @@
         android:layout_margin="16dp"
         android:background="@drawable/round_button"
         android:paddingHorizontal="8dp"
-        android:text="Select Image"
+        android:text="Select Video"
         android:textColor="#FFFFFF" />
 
     <Button
@@ -45,7 +45,7 @@
         android:layout_margin="16dp"
         android:background="@drawable/round_button"
         android:paddingHorizontal="8dp"
-        android:text="Save Image"
+        android:text="Save Video"
         android:textColor="#FFFFFF" />
 
     <ProgressBar
